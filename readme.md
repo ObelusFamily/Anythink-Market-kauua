@@ -12,6 +12,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 To run the proyect locally, you'll need to install [Docker](https://docs.docker.com/get-docker/) in your machine.
   - Verify that Docker is ready by running the following commands in your terminal `docker -v` and `docker-compose -v`
+
 Now, to load the back and fronted run `docker-compose up` from the project root directory.
   - Test if the backend is working propertly, click [here](http://localhost:3000/api/ping).
   - Test if the frontend is running by clicking [here](http://localhost:3001/register) and creating a new user.
